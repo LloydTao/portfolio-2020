@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/open-source", {data:[{}],fetch:[],mutations:void 0});
