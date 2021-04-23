@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/articles", {data:[{posts:[{slug:"test-post-1",description:"This is the description for test post 1.",title:"Test post 1"},{slug:"test-post-2",description:"This is the description for test post 2.",title:"Test post 2"},{slug:"test-post-3",description:"This is the description for test post 3.",title:"Test post 3"}]}],fetch:{},mutations:void 0});
